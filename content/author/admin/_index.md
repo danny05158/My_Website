@@ -13,7 +13,7 @@ role = "Fullstack Software Developer"
 # organizations = [ { name = "Stanford University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "casasolad86@gmail.com"

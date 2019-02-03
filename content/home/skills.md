@@ -75,6 +75,23 @@ weight = 7
   name = "Git"
   # description = "90%"
 
+  [[feature]]
+  icon = "f41b"
+  icon_pack = "fab"
+  name = "Sequelize"
+
+  [[feature]]
+  icon = "f41b"
+  icon_pack = "fab"
+  name = "Mocha/Chai"
+  # description = "90%"
+
+  [[feature]]
+  icon = "f41b"
+  icon_pack = "fab"
+  name = "Material UI"
+  # description = "90%"
+
 # [[feature]]
   # icon = "chart-line"
   # icon_pack = "fas"

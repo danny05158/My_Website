@@ -1,16 +1,17 @@
 +++
 # Project title.
-title = "GraceShopper - E-Commerce Web Application"
+title ="GraceShopper"
 
 # Date this page was created.
 date = 2018-01-11T00:00:00
 
 # Project summary to display on homepage.
-summary = "React Web App build in a week by a team of four"
+summary = "React web application built in a week by a team of four"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["React/Redux", "Express"]
+tags = ["React/Redux", "Node", "Express", "Sequelize", "Passport OAuth", "Material UI",
+"Mocha/Chai"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,6 +45,6 @@ url_project = "https://node-explorers.herokuapp.com/home"
   focal_point = "Center"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+GraceShopper is an E-commerce React web app built in a wekk by a team of four. The team collaborated
+through Github and implemented Agile workflow. 
 

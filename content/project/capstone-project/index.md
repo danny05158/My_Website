@@ -6,11 +6,12 @@ title = "Feast"
 date = 2018-01-11T00:00:00
 
 # Project summary to display on homepage.
-summary = "React Web App build in a week by a team of four"
+summary = "Web app to plan, organize and invite guests to your dinner party"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["React/Redux", "Express"]
+tags = ["React/Redux", "Node", "Express", "Sequelize", "Passport", "OAuth",
+"NodeMailer API", "Cloudinary API", "Mapbox API" ]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -26,7 +27,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=2r8pCegADbY"
 url_project = "https://team-feast.herokuapp.com/"
 
 # Custom links (optional).
@@ -44,4 +45,9 @@ url_project = "https://team-feast.herokuapp.com/"
   focal_point = "Center"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The Feast React web app was created to help plan, organize and invite guests
+to your dinner party. We utilized the NodeMailer API to send email invites to
+guests. We also integrated maps with the Mapbox API for users to know the exact
+location of the event. Team collaborated thruough Github and we incorporated
+Agile workflow.
+

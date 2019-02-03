@@ -80,6 +80,7 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+After spending a few years in software technical support, I decided to pursue my passion
+in software development and attend Fullstack Academy of Code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I first got introduced to programming while at University where I quickly fell in love with solving algorithm problems and learning new technologies. I am interested in learning new technologies at a fast pace and use that knowledge to make a positive impact and contribute to a meaningful team.

@@ -21,7 +21,7 @@ email = "casasolad86@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "AWS",
-  "GraphQL"
+  "GraphQL",
 ]
 
 # List qualifications (such as academic degrees)

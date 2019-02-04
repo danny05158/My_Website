@@ -1,18 +1,16 @@
 +++
 # Project title.
-title = "Feast"
+title ="Senior Enrichment"
 
 # Date this page was created.
-date = 2018-12-11T00:00:00
+date = 2018-11-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Web app to plan, organize and invite guests to your dinner party"
+summary = "React web application for aircraft fanatics 🤓 "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["React/Redux", "Node", "Express", "Sequelize", "Passport", "OAuth",
-"NodeMailer API", "Cloudinary API", "Mapbox API" ]
-
+tags = ["React/Redux", "Node", "Express", "Sequelize"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -27,8 +25,8 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=2r8pCegADbY"
-url_project = "https://team-feast.herokuapp.com/"
+url_video = ""
+url_project = "https://github.com/danny05158/seniorEnrichment"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -38,16 +36,15 @@ url_project = "https://team-feast.herokuapp.com/"
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Grace Shopper"
+  caption = "Senior Enrichment"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
 
-The Feast React web app was created to help plan, organize and invite guests
-to your dinner party. We utilized the NodeMailer API to send email invites to
-guests. We also integrated maps with the Mapbox API for users to know the exact
-location of the event. Team collaborated thruough Github and we incorporated
-Agile workflow.
+Senior Enrichment is a CRUD web app built in five days. It is an app for aircraft fanatics
+which integrates RESTful API and allows you to manage these aircrafts! Built using Sequelize,
+Express, React, Redux, and React-Redux.
+
 

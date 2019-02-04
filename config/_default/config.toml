@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "Get intouch! Send me an email, I am also on Github, and Linkedin"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""

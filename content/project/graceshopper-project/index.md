@@ -3,7 +3,7 @@
 title ="GraceShopper"
 
 # Date this page was created.
-date = 2018-01-11T00:00:00
+date = 2018-11-15T00:00:00
 
 # Project summary to display on homepage.
 summary = "React web application built in a week by a team of four"
@@ -46,5 +46,5 @@ url_project = "https://node-explorers.herokuapp.com/home"
 +++
 
 GraceShopper is an E-commerce React web app built in a wekk by a team of four. The team collaborated
-through Github and implemented Agile workflow. 
+through Github and implemented Agile workflow.
 

@@ -1,16 +1,16 @@
 +++
 # Project title.
-title ="Senior Enrichment"
+title ="Aircraft Fanatics"
 
 # Date this page was created.
 date = 2018-11-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "React web application for aircraft fanatics 🤓 "
+summary = "React web application for aircraft fanatics 🤓"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["React/Redux", "Node", "Express", "Sequelize"]
+tags = ["React/Redux", "Node", "Express", "Sequelize", "Material UI", "Grommet v2"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -43,8 +43,9 @@ url_project = "https://github.com/danny05158/seniorEnrichment"
   focal_point = "Center"
 +++
 
-Senior Enrichment is a CRUD web app built in five days. It is an app for aircraft fanatics
+Aircraft Fanatics is a CRUD web app built in five days. It is an app for aircraft fanatics
 which integrates RESTful API and allows you to manage these aircrafts! Built using Sequelize,
-Express, React, Redux, and React-Redux.
+Express, React, Redux, and React-Redux. For styling I used Material UI and Grommet v2.
+Visit the github repo using the Project Link above. 
 
 

@@ -25,55 +25,46 @@ weight = 40
   icon = "f41b"
   icon_pack = "fab"
   name = "React/Redux"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Node.js"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Express.js"
-  # description = "90%"
 
  [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "SQL"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Sequelize"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Postgres"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "HTML"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "ES6"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Git"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
@@ -84,13 +75,11 @@ weight = 40
   icon = "f41b"
   icon_pack = "fab"
   name = "Mocha/Chai"
-  # description = "90%"
 
   [[feature]]
   icon = "f41b"
   icon_pack = "fab"
   name = "Material UI"
-  # description = "90%"
 
 # [[feature]]
   # icon = "chart-line"

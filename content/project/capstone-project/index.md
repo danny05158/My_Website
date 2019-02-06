@@ -47,7 +47,7 @@ url_project = "https://team-feast.herokuapp.com/"
 
 The Feast React web app was created to help plan, organize and invite guests
 to your dinner party. We utilized the NodeMailer API to send email invites to
-guests. We also integrated maps with the Mapbox API for users to know the exact
-location of the event. Team collaborated thruough Github and we incorporated
+guests. We also integrated maps using the Mapbox API for users to know the location
+of the event. Team collaboration thruough Github and we incorporated
 Agile workflow.
 

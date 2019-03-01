@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Blog"
-  url = "https://medium.com/@casasolad86"
+  url = "#posts"
   weight = 3
 
 [[main]]

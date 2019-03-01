@@ -43,9 +43,6 @@ url_project = "https://github.com/danny05158/seniorEnrichment"
   focal_point = "Center"
 +++
 
-Aircraft Fanatics is a CRUD web app built in five days. It is an app for aircraft fanatics
-which integrates RESTful API and allows you to manage these aircrafts! Built using Sequelize,
-Express, React, Redux, and React-Redux. For styling I used Material UI and Grommet v2.
-Visit the github repo using the Project Link above. 
+Aircraft Fanatics is a CRUD web app built in five days. It is an app for aircraft fanatics which integrates RESTful API and allows you to manage aircrafts! For styling I used Material UI.
 
-
+Please visit the github [Repo](https://github.com/danny05158/seniorEnrichment)

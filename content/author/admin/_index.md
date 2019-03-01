@@ -20,8 +20,8 @@ email = "casasolad86@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
+  "Javascript",
   "AWS",
-  "GraphQL",
 ]
 
 # List qualifications (such as academic degrees)
@@ -80,7 +80,6 @@ interests = [
 
 +++
 
-After spending a few years in software technical support, I decided to pursue my passion
-in software development and attend Fullstack Academy of Code.
+I am fullstack software developer who enjoys collaboration, problem solving and learning new technologies. After spending a few years in software technical support, I decided to pursue my passion in software development and attend Fullstack Academy.
 
-I first got introduced to programming while at University where I quickly fell in love with solving algorithm problems and learning new technologies. I am interested in learning new technologies at a fast pace and use that knowledge to make a positive impact and contribute to a meaningful team.
+I first was introduced to programming while at college where I learned computer science fundementals and enjoyed solving algorithm and logic problems. I am interested in continuing to learn new technology and frameworks and use this knowledge to contribute to a meaningful team.

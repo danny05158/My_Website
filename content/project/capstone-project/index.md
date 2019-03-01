@@ -27,8 +27,8 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=2r8pCegADbY"
-url_project = "https://team-feast.herokuapp.com/"
+url_video = ""
+url_project = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -38,16 +38,17 @@ url_project = "https://team-feast.herokuapp.com/"
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "Grace Shopper"
+  caption = "Capstone Project"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
 
-The Feast React web app was created to help plan, organize and invite guests
-to your dinner party. We utilized the NodeMailer API to send email invites to
-guests. We also integrated maps using the Mapbox API for users to know the location
-of the event. Team collaboration thruough Github and we incorporated
-Agile workflow.
+The Feast React web app was created to help plan, organize and invite guests to your dinner party. It was
+created in a two week sprint while incorporating agile workflow.
+
+We also incorporated the NodeMailer API to send email invites to guests and also integrated maps using the Mapbox API.
+
+Please visit the [Project](https://team-feast.herokuapp.com/) or github repo [Repo](https://github.com/Team-Feast/dinner-party)
 

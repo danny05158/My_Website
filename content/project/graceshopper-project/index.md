@@ -28,7 +28,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_project = "https://node-explorers.herokuapp.com/home"
+url_project = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -45,6 +45,6 @@ url_project = "https://node-explorers.herokuapp.com/home"
   focal_point = "Center"
 +++
 
-GraceShopper is an E-commerce React web app built in a wekk by a team of four. The team collaborated
-through Github and implemented Agile workflow.
+Grace Shopper was built in a 10 day sprint. The team collaborated through Github and implemented an agile workflow. The application integrates filtering, a shopping cart, and checkout.
 
+Please visit the [Project](http://node-explorers.herokuapp.com) or github repo [Repo](https://github.com/node-explorers/grace-shopper)

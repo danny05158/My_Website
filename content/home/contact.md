@@ -1,14 +1,13 @@
 +++
 # Contact widget.
-widget = "contact"
-active = true
-date = 2016-04-20T00:00:00
+widget = "contact"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
 title = "Contact"
 subtitle = "Get in touch!"
 
 # Order that this section will appear in.
-weight = 70
+weight = 130
 
 # Automatically link email and phone?
 autolink = true

@@ -2,6 +2,9 @@
 # Display name
 name = "Daniel Casasola"
 
+# Username (this should match the folder name)
+authors = ["admin"]
+
 # Is this the primary user of the site?
 superuser = true
 
@@ -24,6 +27,10 @@ interests = [
   "AWS",
 ]
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups = ["Researchers", "Visitors"]
+
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Fullstack Engineer Program"
@@ -36,22 +43,9 @@ interests = [
   year = 2014
 
 # Social/Academic Networking
-#
-# Icon pack "fab" includes the following social network icons:
-#
-#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-#   youtube, instagram, soundcloud
-#
-#   For email icon, use "fas" icon pack, "envelope" icon, and
-#   "mailto:your@email.com" as the link.
-#
-#   Full list: https://fontawesome.com/icons
-#
-# Icon pack "ai" includes the following academic icons:
-#
-#   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-#
-#   Full list: https://jpswalsh.github.io/academicons/
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
   icon = "github"

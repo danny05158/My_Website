@@ -10,7 +10,7 @@ summary = "React web application for aircraft fanatics 🤓"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["React/Redux", "Node", "Express", "Sequelize", "Material UI", "Grommet v2"]
+tags = ["React/Redux", "Node", "Express", "Sequelize", "Material UI"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -26,7 +26,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_project = "https://github.com/danny05158/seniorEnrichment"
+url_project = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

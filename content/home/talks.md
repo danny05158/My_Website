@@ -1,8 +1,10 @@
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
-active = false
-date = 2016-04-20T00:00:00
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
+
+widget = "pages"  # Do not modify this line!
+active = false  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
 subtitle = ""

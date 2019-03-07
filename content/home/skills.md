@@ -25,95 +25,98 @@ weight = 40
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   #color = "#DCDCDC"
+  #color = "#DCDCDC"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
 
   # Background image.
-  image = "mountail.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "mountail.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 
 [[feature]]
-  icon = "f41b"
+  icon = "react"
   icon_pack = "fab"
-  name = "React"
+  name = "React/Redux"
 
   [[feature]]
-  icon = "f41b"
+  icon = "node"
   icon_pack = "fab"
   name = "Node.js"
 
   [[feature]]
-  icon = "f41b"
+  icon = "js-square"
   icon_pack = "fab"
   name = "Express.js"
 
  [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
+  icon = "database"
+  icon_pack = "fas"
   name = "SQL"
 
   [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
+  icon = "database"
+  icon_pack = "fas"
   name = "Sequelize"
 
   [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
-  name = "Postgres"
+  icon = "coins"
+  icon_pack = "fas"
+  name = "PostgresSQL"
 
   [[feature]]
-  icon = "f41b"
+  icon = "html5"
   icon_pack = "fab"
-  name = "HTML"
+  name = "HTML5"
 
   [[feature]]
-  icon = "f41b"
+  icon = "js"
   icon_pack = "fab"
   name = "ES6"
 
   [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
+  icon = "code-branch"
+  icon_pack = "fas"
   name = "Git"
 
   [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
-  name = "Sequelize"
-
-  [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
+  icon = "laptop-code"
+  icon_pack = "fas"
   name = "Mocha/Chai"
+  description = "Testing"
 
   [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
+  icon = "code"
+  icon_pack = "fas"
   name = "Material UI"
 
   [[feature]]
-  icon = "f41b"
+  icon = "css3"
   icon_pack = "fab"
-  name = "CSS"
+  name = "CSS3"
+
 
 [[feature]]
-  icon = "f41b"
-  icon_pack = "fab"
-  name = "Redux"
+   icon = "node-js"
+   icon_pack = "fab"
+   name = "Javascript"
 
-# [[feature]]
-  # icon = "chart-line"
-  # icon_pack = "fas"
-  # name = "Statistics"
-  # description = "100%"
+   [[feature]]
+   icon = "js-square"
+   icon_pack = "fab"
+   name = "Enzyme"
+   description = "Testing React Components"
+
+  [[feature]]
+   icon = "codepen"
+   icon_pack = "fab"
+   name = "Web Sockets"
+   description = "Socket.io"
 
 # [[feature]]
   # icon = "camera-retro"

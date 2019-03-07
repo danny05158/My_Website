@@ -43,6 +43,6 @@ url_project = ""
   focal_point = "Center"
 +++
 
-Aircraft Fanatics is a CRUD web app built in five days. It is an app for aircraft fanatics which integrates RESTful API and allows you to manage aircrafts! For styling I used Material UI.
+Aircraft Fanatics is a CRUD web app built in five days. It is an app for aircraft fanatics which integrates RESTful API and allows you to manage aircrafts!
 
 Please visit the github [Repo](https://github.com/danny05158/seniorEnrichment)

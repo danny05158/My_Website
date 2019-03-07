@@ -42,7 +42,7 @@ weight = 40
 [[feature]]
   icon = "f41b"
   icon_pack = "fab"
-  name = "React/Redux"
+  name = "React"
 
   [[feature]]
   icon = "f41b"
@@ -98,6 +98,16 @@ weight = 40
   icon = "f41b"
   icon_pack = "fab"
   name = "Material UI"
+
+  [[feature]]
+  icon = "f41b"
+  icon_pack = "fab"
+  name = "CSS"
+
+[[feature]]
+  icon = "f41b"
+  icon_pack = "fab"
+  name = "Redux"
 
 # [[feature]]
   # icon = "chart-line"

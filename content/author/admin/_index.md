@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Fullstack Software Developer"
+role = "Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -22,10 +22,7 @@ bio = ""
 email = "casasolad86@gmail.com"
 
 # List (academic) interests or hobbies
-interests = [
-  "Javascript",
-  "AWS",
-]
+#interests = []
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -75,5 +72,3 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 I am fullstack software developer who enjoys collaboration, problem solving and learning new technologies. After spending a few years in software technical support, I decided to pursue my passion in software development and attend Fullstack Academy.
-
-I first was introduced to programming while at college where I learned computer science fundementals and enjoyed solving algorithm and logic problems. I am interested in continuing to learn new technology and frameworks and use this knowledge to contribute to a meaningful team.

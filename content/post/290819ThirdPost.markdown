@@ -2,7 +2,7 @@
 title: Working my way thru the NERDS stack
 author: Daniel
 date: '2019-04-01'
-slug: Curl Api Requests
+slug: nerdstack
 categories: []
 tags: []
 header:

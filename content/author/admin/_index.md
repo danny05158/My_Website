@@ -71,4 +71,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am fullstack software developer who enjoys collaboration, problem solving and learning new technologies. After spending a few years in software technical support, I decided to pursue my passion in software development and attend Fullstack Academy.
+I am fullstack software engineer who enjoys collaboration, problem solving and learning new technologies. After spending a few years in software technical support, I decided to pursue my passion in software development and attend Fullstack Academy.

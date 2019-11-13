@@ -118,10 +118,9 @@ weight = 40
    name = "Web Sockets"
    description = "Socket.io"
 
-# [[feature]]
-  # icon = "camera-retro"
-  # icon_pack = "fas"
-  # name = "Photography"
-  # description = "10%"
+ [[feature]]
+   icon = "fa-php"
+   icon_pack = "fab"
+   name = "PHP"
 
 +++
